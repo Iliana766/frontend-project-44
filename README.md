@@ -25,8 +25,8 @@
 
 ### Примеры работы
 
-- Победа: [![asciicast](https://asciinema.org/a/hqOJ0KYO5WiHGjee)]
-- Ошибка: [![asciicast](https://asciinema.org/a/HPt7q0F7IJJN0wg6)]
+- Победа: [![asciicast](https://asciinema.org/a/hqOJ0KYO5WiHGjee.svg)](https://asciinema.org/a/hqOJ0KYO5WiHGjee)
+- Ошибка: [![asciicast](https://asciinema.org/a/HPt7q0F7IJJN0wg6.svg)](https://asciinema.org/a/HPt7q0F7IJJN0wg6)
 
 ## Brain progression
 
